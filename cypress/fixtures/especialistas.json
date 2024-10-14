@@ -1,0 +1,32 @@
+{
+    "especialistas": [
+        {
+            "nome": "Ana Oliveira",
+            "email": "ana.oliveira@gmail.com",
+            "senha": "abcd1234",
+            "especialidade": "pediatria",
+            "crm": 9876543,
+            "telefone": "(123) 456-7890",
+            "imagem": "igm123.jpg",
+            "cep": 123456,
+            "rua": "Rua das Flores",
+            "numero": 123,
+            "complemento": "apto 101",
+            "estado": "São Paulo"
+        },
+        {
+            "nome": "Victor Fernandes",
+            "email": "victor.fernandes@gmail.com",
+            "senha": "victor123",
+            "especialidade": "dermatologia",
+            "crm": 1231548,
+            "telefone": "(123) 654-7990",
+            "imagem": "igm124.jpg",
+            "cep": 1234567,
+            "rua": "Rua das Caras",
+            "numero": 1234,
+            "complemento": "apto 103",
+            "estado": "Minas Gerais"
+        }
+    ]
+}
